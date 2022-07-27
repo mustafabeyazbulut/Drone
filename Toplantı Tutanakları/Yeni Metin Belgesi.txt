@@ -1,0 +1,31 @@
+görüntü işleme teknolojisi kullanarak havada 
+işleyerek yer kontrol istasyonuna göndermek
+
+rasperyby zero da görüntü işleme yapıyor gibi düşün.
+
+resiver transmitter mantığıyla olaack
+
+
+
+drone görüntüyü tespit et sonra yer kontrol istasyonuna gönder
+gönder yer kontrol istasyonndan işleyerek geri gönder
+
+pyhton la görüntü işleme
+
+ve - Labview bakın dedi
+-Python Görüntü İşleme
+-Opencv
+-Yolo algoritması
+Görüntü aktarımı???
+Görüntü işleme ile insan tespit etme
+insan tanıma algoritması üstünde çalış hazır dataset kullanmadan
+Terorist kamuflaj lı terorist 
+
+python
+opencv
+yolo
+
+görüntü işleme
+görüntüyü hangi donanımsal araçlarla iletebiliriz ?
+görüntü işleme ile insan tanıma ?
+
